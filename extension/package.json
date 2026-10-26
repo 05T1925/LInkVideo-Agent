@@ -1,0 +1,5 @@
+{
+  "name": "linkvideo-agent-extension",
+  "private": true,
+  "type": "module"
+}
